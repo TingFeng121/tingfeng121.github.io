@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T02:27:32.887Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="FoEkXkJ_eZJPBocfEWbM" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-10T02:28:47.772Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="7mQffZYjrBCAT6Q__Wv4" version="24.6.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1786" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="s57hdgjYQvh1-RJbTecI-2" value="灵智后台" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="s57hdgjYQvh1-RJbTecI-2" value="资金账号申请（灵智后台）" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="20" y="-1099" width="570" height="630" as="geometry" />
         </mxCell>
         <mxCell id="s57hdgjYQvh1-RJbTecI-3" value="客户" style="swimlane;startSize=20;" parent="s57hdgjYQvh1-RJbTecI-2" vertex="1">
